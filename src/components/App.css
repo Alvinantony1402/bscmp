@@ -1,0 +1,24 @@
+.App {
+  text-align: center;
+  background-color: #F3F2F2;
+  width: 100%;
+  min-height: 100vh;
+}
+
+.appbar {
+  height: 66px;
+  border-bottom: 2px groove;
+  background-color: #FEFEFE;
+  text-align: center;
+  position: static;
+}
+
+.sidebar {
+  width: 160px;
+  height: calc(100vh - 50px);
+  background-color: #FEFEFE;
+}
+
+body {
+  background-color: #F3F2F2;
+}
